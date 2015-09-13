@@ -1,5 +1,5 @@
 # Min-max-tic-tac-toe
-Contains a robot that will never lose in a game of tic tac toe. Implemented using a min-max algorithm on a game tree. The application works in the browser.
+Contains a robot that will never lose in a game of tic tac toe. Implemented using a min-max algorithm on a game tree. The application works in the browser. You can try it out online [here.](https://tranquil-hamlet-6036.herokuapp.com/)
 
 
 # Installation
